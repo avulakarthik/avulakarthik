@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **karthik.avula.mail@gmail.com**
 
-- ⚡ Fun fact **I juggle infrastructure, code, and security while optimizing everything. Your superhero of smooth deployments**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
