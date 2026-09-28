@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avulakarthik&label=Profile%20views&color=0e75b6&style=flat" alt="avulakarthik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avulakarthik" alt="avulakarthik" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_karthikavula_" target="blank"><img src="https://img.shields.io/twitter/follow/_karthikavula_?logo=twitter&style=for-the-badge" alt="_karthikavula_" /></a> </p>
 
@@ -18,8 +17,6 @@
 - 📫 How to reach me **karthik.avula.mail@gmail.com**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
